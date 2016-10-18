@@ -1,4 +1,4 @@
-Functional Programming in Ruby
-===============================
+Don't git blame me
+==================
 
-Presentation about Proc, Lambdas and Closure in Ruby.
+Presentation about git blame. Use or no?
